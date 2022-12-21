@@ -1,0 +1,11 @@
+.studentForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    width: 60%;
+}
+input{
+    padding: 1rem;
+    margin: 5px;
+}
